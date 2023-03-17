@@ -1,0 +1,24 @@
+numpy==1.19.5
+Pillow==8.0.1
+
+
+Title: Math Painting
+Objects:
+Square:
+x
+y
+side
+color
+draw(canvas)
+Rectangle:
+x
+y
+width
+height
+color
+draw(canvas)
+Canvas:
+width
+hegiht
+color
+make(imagepath)
